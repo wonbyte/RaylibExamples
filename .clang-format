@@ -1,0 +1,12 @@
+---
+Language:        Cpp
+BasedOnStyle:    LLVM
+
+# Indentation and spacing
+IndentWidth:     4
+TabWidth:        4
+UseTab:          Never
+BreakBeforeBraces: Allman  # Puts braces on their own lines (very readable)
+
+# Column limits
+ColumnLimit:     100       # Relaxed for wider screens but still readable
